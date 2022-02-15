@@ -1,0 +1,16 @@
+.container {
+  width: 300px;
+  outline: 1px solid red;
+  margin-bottom: 30px;
+}
+.head {
+  background-color: bisque;
+  height: 50px;
+}
+.tr {
+  height: 30px;
+  text-align: center;
+}
+.td {
+  outline: 1px solid red;
+}
