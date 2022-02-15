@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DimaMirk/goit-react-hw-01-components.git/static/css/main.3a49dd7e.css",
+    "main.js": "/DimaMirk/goit-react-hw-01-components.git/static/js/main.0d7117ea.js",
+    "static/js/787.84e13687.chunk.js": "/DimaMirk/goit-react-hw-01-components.git/static/js/787.84e13687.chunk.js",
+    "index.html": "/DimaMirk/goit-react-hw-01-components.git/index.html",
+    "main.3a49dd7e.css.map": "/DimaMirk/goit-react-hw-01-components.git/static/css/main.3a49dd7e.css.map",
+    "main.0d7117ea.js.map": "/DimaMirk/goit-react-hw-01-components.git/static/js/main.0d7117ea.js.map",
+    "787.84e13687.chunk.js.map": "/DimaMirk/goit-react-hw-01-components.git/static/js/787.84e13687.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a49dd7e.css",
+    "static/js/main.0d7117ea.js"
+  ]
+}
